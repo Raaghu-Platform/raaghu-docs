@@ -7,9 +7,9 @@ sidebar_position: 1
 
 Raaghu Frontend Suite is built using React 18 and Raaghu Design System. It provides a robust, modular architecture fully compatible with ABP Commercial, offering production-ready end-user application pages, customizable dashboard templates with around 30 application pages, pre-defined themes, modules, and end-to-end documentation.
 
-## Getting Started
+## Getting-Started
 
-This tutorial guides in creating & running a web application using startup templates. 
+This tutorial guides in creating & running a web application using startup-templates. 
 
 
 ###  UI Frameworks

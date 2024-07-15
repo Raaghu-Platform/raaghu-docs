@@ -1,4 +1,4 @@
-# Raaghu Code Deployment
+# Raaghu-Code-Deployment
 
 #### Prerequisites
 - Node.js installed on your system
