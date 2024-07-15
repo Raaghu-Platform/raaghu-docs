@@ -31,9 +31,9 @@
     "message": "样例",
     "description": "The label of footer link with label=Samples linking to /Samples/create-a-page"
   },
-  "link.item.label.Startup Templates": {
+  "link.item.label.Startup-Templates": {
     "message": "创业模板",
-    "description": "The label of footer link with label=Startup Templates linking to /Startup Templates/Solution-Structure"
+    "description": "The label of footer link with label=Startup-Templates linking to /Startup-Templates/Solution-Structure"
   },
   "link.item.label.Application-Modules": {
     "message": "应用模块",
@@ -53,7 +53,7 @@
   },
   "link.item.label.Release Infromation": {
     "message": "发布信息",
-    "description": "The label of footer link with label=Release Infromation linking to /Release Information/Realse Notes"
+    "description": "The label of footer link with label=Release Infromation linking to /Release Information/Realse-Notes"
   },
   
   "link.item.label.Deployment":{

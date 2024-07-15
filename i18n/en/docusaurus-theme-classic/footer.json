@@ -35,9 +35,9 @@
     "message": "Samples",
     "description": "The label of footer link with label=Samples linking to /docs/category/samples"
   },
-  "link.item.label.Startup Templates": {
-    "message": "Startup Templates",
-    "description": "The label of footer link with label=Startup Templates linking to /docs/category/startup-templates"
+  "link.item.label.Startup-Templates": {
+    "message": "Startup-Templates",
+    "description": "The label of footer link with label=Startup-Templates linking to /docs/category/startup-templates"
   },
   "link.item.label.Application-Modules": {
     "message": "Application-Modules",

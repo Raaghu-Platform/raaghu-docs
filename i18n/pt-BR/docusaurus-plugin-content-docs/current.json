@@ -23,9 +23,9 @@
     "message": "Amostras",
     "description": "The label for category Samples in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Startup Templates": {
+  "sidebar.tutorialSidebar.category.Startup-Templates": {
     "message": "Modelos de inicialização",
-    "description": "The label for category Startup Templates in sidebar tutorialSidebar"
+    "description": "The label for category Startup-Templates in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Application-Modules": {
     "message": "Módulo de Aplicação",

@@ -176,8 +176,8 @@ const config: Config = {
               to: '/Samples/create-a-page',
             },
             {
-              label: 'Startup Templates',
-              to: '/Startup Templates/Solution-Structure',
+              label: 'Startup-Templates',
+              to: '/Startup-Templates/Solution-Structure',
             },
             {
               label: 'Application-Modules',
@@ -197,7 +197,7 @@ const config: Config = {
             },
             {
               label: 'Release Infromation',
-              to: '/Release-Information/Realse Notes',
+              to: '/Release-Information/Realse-Notes',
             },
             {
               label: 'Deployment',

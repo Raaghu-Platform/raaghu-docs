@@ -19,9 +19,9 @@
     "message": "Samples",
     "description": "The label for category Samples in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Startup Templates": {
-    "message": "Startup Templates",
-    "description": "The label for category Startup Templates in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Startup-Templates": {
+    "message": "Startup-Templates",
+    "description": "The label for category Startup-Templates in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Application-Modules": {
     "message": "Application-Modules",

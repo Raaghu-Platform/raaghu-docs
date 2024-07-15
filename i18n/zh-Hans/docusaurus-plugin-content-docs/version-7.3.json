@@ -23,9 +23,9 @@
     "message": "样品",
     "description": "The label for category Samples in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Startup Templates": {
+  "sidebar.tutorialSidebar.category.Startup-Templates": {
     "message":  "启动模板",
-    "description": "The label for category Startup Templates in sidebar tutorialSidebar"
+    "description": "The label for category Startup-Templates in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Application-Modules": {
     "message": "应用模块",
@@ -43,9 +43,9 @@
     "message":"React 用户界面",
     "description": "The label for category React-UI in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Release Information": {
+  "sidebar.tutorialSidebar.category.Release-Information": {
     "message": "反应用户界面",
-    "description": "The label for category Release Information in sidebar tutorialSidebar"
+    "description": "The label for category Release-Information in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Deployment": {
     "message": " 的中文简体",

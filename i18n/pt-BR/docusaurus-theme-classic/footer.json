@@ -31,9 +31,9 @@
     "message": "Exemplos",
     "description": "The label of footer link with label=Samples linking to /Samples/create-a-page"
   },
-  "link.item.label.Startup Templates": {
+  "link.item.label.Startup-Templates": {
     "message": "Modelos de Inicialização",
-    "description": "The label of footer link with label=Startup Templates linking to /Startup Templates/Solution-Structure"
+    "description": "The label of footer link with label=Startup-Templates linking to /Startup-Templates/Solution-Structure"
   },
   "link.item.label.Application-Modules": {
     "message": "Módulos da Aplicação",
@@ -53,7 +53,7 @@
   },
   "link.item.label.Release Infromation": {
     "message": "Informações de Lançamento",
-    "description": "The label of footer link with label=Release Infromation linking to /Release-Information/Realse Notes"
+    "description": "The label of footer link with label=Release Infromation linking to /Release-Information/Realse-Notes"
   },
   "link.item.label.Release Deployment": {
     "message": "Informações de Lançamento",

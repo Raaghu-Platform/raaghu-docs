@@ -9,7 +9,7 @@ Raaghu Frontend Suite is built using React 18 and Raaghu Design System. It provi
 
 ## Getting-Started
 
-This tutorial guides in creating & running a web application using startup templates. 
+This tutorial guides in creating & running a web application using startup-templates. 
 
 
 ###  UI Frameworks

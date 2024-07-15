@@ -18,7 +18,7 @@ See [the module description page](https://docs.abp.io/en/commercial/7.0/Startup-
 How to install
 --------------
 
-Identity is pre-installed in [the startup templates.](https://docs.abp.io/en/commercial/7.0/Startup-Templates/Index) So, no need to manually install it.
+Identity is pre-installed in [the startup-templates.](https://docs.abp.io/en/commercial/7.0/Startup-Templates/Index) So, no need to manually install it.
 
 ### Packages
 

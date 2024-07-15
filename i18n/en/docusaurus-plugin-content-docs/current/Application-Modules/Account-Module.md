@@ -10,7 +10,7 @@ See [the module description page](https://commercial.abp.io/modules/Volo.Account
 How to Install Element
 ----------------------
 
-Account is pre-installed in [the startup templates.](https://docs.abp.io/en/commercial/7.2/startup-templates/application/index) So, no need to manually install it.
+Account is pre-installed in [the startup-templates.](https://docs.abp.io/en/commercial/7.2/startup-templates/application/index) So, no need to manually install it.
 
 ### Packages
 
