@@ -39,9 +39,9 @@
     "message": "Módulos da Aplicação",
     "description": "The label of footer link with label=Application Modules linking to /Application modules/Overall"
   },
-  "link.item.label.UI Theme": {
+  "link.item.label.UI-Theme": {
     "message": "Tema de UI",
-    "description": "The label of footer link with label=UI Theme linking to /UI Theme/UI-Theme"
+    "description": "The label of footer link with label=UI-Theme linking to /UI-Theme/UI-Theme"
   },
   "link.item.label.Storybook": {
     "message": "Storybook",

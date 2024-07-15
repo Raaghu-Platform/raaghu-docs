@@ -27,9 +27,9 @@
     "message": "Application-Modules",
     "description": "The label for category Application-Modules in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.UI Theme": {
-    "message": "UI Theme",
-    "description": "The label for category UI Theme in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.UI-Theme": {
+    "message": "UI-Theme",
+    "description": "The label for category UI-Theme in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Storybook": {
     "message": "Storybook",

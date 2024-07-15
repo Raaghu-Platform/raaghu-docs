@@ -184,8 +184,8 @@ const config: Config = {
               to: '/Application-Modules/Overall',
             },
             {
-              label: 'UI Theme',
-              to: '/UI Theme/UI-Theme',
+              label: 'UI-Theme',
+              to: '/UI-Theme/UI-Theme',
             },
             {
               label: 'Storybook',

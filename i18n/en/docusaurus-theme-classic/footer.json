@@ -43,9 +43,9 @@
     "message": "Application-Modules",
     "description": "The label of footer link with label=Application-Modules linking to /docs/category/application-modules"
   },
-  "link.item.label.UI Theme": {
-    "message": "UI Theme",
-    "description": "The label of footer link with label=UI Theme linking to /docs/category/ui-theme"
+  "link.item.label.UI-Theme": {
+    "message": "UI-Theme",
+    "description": "The label of footer link with label=UI-Theme linking to /docs/category/ui-theme"
   },
   "link.item.label.Storybook": {
     "message": "Storybook",
