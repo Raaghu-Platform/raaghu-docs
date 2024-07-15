@@ -160,8 +160,8 @@ const config: Config = {
               to: '/',
             },
             {
-              label: 'Getting Started',
-              to: '/Getting Started/Setup-Your-Development-Environment',
+              label: 'Getting-Started',
+              to: '/Getting-Started/Setup-Your-Development-Environment',
             },
             {
               label: 'Tutorials',
@@ -180,8 +180,8 @@ const config: Config = {
               to: '/Startup Templates/Solution-Structure',
             },
             {
-              label: 'Application Modules',
-              to: '/Application modules/Overall',
+              label: 'Application-Modules',
+              to: '/Application-Modules/Overall',
             },
             {
               label: 'UI Theme',
@@ -192,77 +192,77 @@ const config: Config = {
               to: '/Storybook/Components',
             },
             {
-              label: 'React UI',
-              to: '/React UI/Cutomization',
+              label: 'React-UI',
+              to: '/React-UI/Cutomization',
             },
             {
               label: 'Release Infromation',
-              to: '/Release Information/Realse Notes',
+              to: '/Release-Information/Realse Notes',
             },
             {
               label: 'Deployment',
-              to :'/Deployment/Raaghu Code Deployment'
+              to :'/Deployment/Raaghu-Code-Deployment'
             },
           ],
         },
         {
-          title: 'Application Modules',
+          title: 'Application-Modules',
           items: [
             {
               label: 'Overall',
-              to: '/Application Modules/Overall',
+              to: '/Application-Modules/Overall',
             },
             {
               label: 'Account',
-              to: '/Application Modules/Account-Module',
+              to: '/Application-Modules/Account-Module',
             },
             {
               label: 'Audit Logging',
-              to: '/Application Modules/Audit-Logging',
+              to: '/Application-Modules/Audit-Logging',
             },
             {
               label: 'Chat',
-              to: '/Application Modules/Chat-Module',
+              to: '/Application-Modules/Chat-Module',
             },
             {
               label: 'CMS Kit Pro',
-              to: '/Application Modules/CMS-KIt-Pro',
+              to: '/Application-Modules/CMS-KIt-Pro',
             },
             {
               label: 'File Management',
-              to: '/Application Modules/File-Management',
+              to: '/Application-Modules/File-Management',
             },
             {
               label: 'Forms',
-              to: '/Application Modules/Forms',
+              to: '/Application-Modules/Forms',
             },
             {
               label: 'GDPR',
-              to: '/Application Modules/GDPR',
+              to: '/Application-Modules/GDPR',
             },
             {
               label: 'Identity',
-              to: '/Application Modules/Identity',
+              to: '/Application-Modules/Identity',
             },
             {
               label: 'OpenIddict',
-              to: '/Application Modules/OpenIddict',
+              to: '/Application-Modules/OpenIddict',
             },
             {
               label: 'Language Management',
-              to: '/Application Modules/Language-Management',
+              to: '/Application-Modules/Language-Management',
             },
             {
               label: 'Payment',
-              to: '/Application Modules/Payment',
+              to: '/Application-Modules/Payment',
             },
             {
               label: 'SaaS',
-              to: '/Application Modules/SaaS',
+              to: '/Application-Modules/SaaS',
             },
             {
               label: 'Text Template Management',
-              to: '/Application Modules/Text-Template-Management',
+              to: '/Application-Modules/Text-Template-Management',
             },
           ],
         },

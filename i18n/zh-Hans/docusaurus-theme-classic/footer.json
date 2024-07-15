@@ -3,9 +3,9 @@
     "message": "文档",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
-  "link.title.Application Modules": {
+  "link.title.Application-Modules": {
     "message": "应用程序模块",
-    "description": "The title of the footer links column with title=Application Modules in the footer"
+    "description": "The title of the footer links column with title=Application-Modules in the footer"
   },
   "link.title.More": {
     "message": "更多",
@@ -15,9 +15,9 @@
     "message": "介绍",
     "description": "The label of footer link with label=Introduction linking to /"
   },
-  "link.item.label.Getting Started": {
+  "link.item.label.Getting-Started": {
     "message": "入门",
-    "description": "The label of footer link with label=Getting Started linking to /Getting Started/Setup-Your-Development-Environment"
+    "description": "The label of footer link with label=Getting-Started linking to /Getting-Started/Setup-Your-Development-Environment"
   },
   "link.item.label.Tutorials": {
     "message": "教程",
@@ -35,9 +35,9 @@
     "message": "创业模板",
     "description": "The label of footer link with label=Startup Templates linking to /Startup Templates/Solution-Structure"
   },
-  "link.item.label.Application Modules": {
+  "link.item.label.Application-Modules": {
     "message": "应用模块",
-    "description": "The label of footer link with label=Application Modules linking to /Application modules/Overall"
+    "description": "The label of footer link with label=Application-Modules linking to /Application-Modules/Overall"
   },
   "link.item.label.UI Theme": {
     "message": "UI 主题",
@@ -47,9 +47,9 @@
     "message": "Storybook",
     "description": "The label of footer link with label=Storybook linking to /Storybook/Components"
   },
-  "link.item.label.React UI": {
+  "link.item.label.React-UI": {
     "message": "React 用户界面",
-    "description": "The label of footer link with label=React UI linking to /React UI/Cutomization"
+    "description": "The label of footer link with label=React-UI linking to /React-UI/Cutomization"
   },
   "link.item.label.Release Infromation": {
     "message": "发布信息",
@@ -58,63 +58,63 @@
   
   "link.item.label.Deployment":{
     "message":"",
-    "description":"/Deployment/Raaghu Code Deployment"
+    "description":"/Deployment/Raaghu-Code-Deployment"
   },
   "link.item.label.Overall": {
     "message": "总体上",
-    "description": "The label of footer link with label=Overall linking to /Application Modules/Overall"
+    "description": "The label of footer link with label=Overall linking to /Application-Modules/Overall"
   },
   "link.item.label.Account": {
     "message": "账户",
-    "description": "The label of footer link with label=Account linking to /Application Modules/Account-Module"
+    "description": "The label of footer link with label=Account linking to /Application-Modules/Account-Module"
   },
   "link.item.label.Audit Logging": {
     "message": "审计日志",
-    "description": "The label of footer link with label=Audit Logging linking to /Application Modules/Audit-Logging"
+    "description": "The label of footer link with label=Audit Logging linking to /Application-Modules/Audit-Logging"
   },
   "link.item.label.Chat": {
     "message": "聊天" ,
-    "description": "The label of footer link with label=Chat linking to /Application Modules/Chat-Module"
+    "description": "The label of footer link with label=Chat linking to /Application-Modules/Chat-Module"
   },
   "link.item.label.CMS Kit Pro": {
     "message": "CMS 套件 Pro",
-    "description": "The label of footer link with label=CMS Kit Pro linking to /Application Modules/CMS-KIt-Pro"
+    "description": "The label of footer link with label=CMS Kit Pro linking to /Application-Modules/CMS-KIt-Pro"
   },
   "link.item.label.File Management": {
     "message": "文件管理",
-    "description": "The label of footer link with label=File Management linking to /Application Modules/File-Management"
+    "description": "The label of footer link with label=File Management linking to /Application-Modules/File-Management"
   },
   "link.item.label.Forms": {
     "message": "表单",
-    "description": "The label of footer link with label=Forms linking to /Application Modules/Forms"
+    "description": "The label of footer link with label=Forms linking to /Application-Modules/Forms"
   },
   "link.item.label.GDPR": {
     "message": "一般数据保护条例",
-    "description": "The label of footer link with label=GDPR linking to /Application Modules/GDPR"
+    "description": "The label of footer link with label=GDPR linking to /Application-Modules/GDPR"
   },
   "link.item.label.Identity": {
     "message": "身份",
-    "description": "The label of footer link with label=Identity linking to /Application Modules/Identity"
+    "description": "The label of footer link with label=Identity linking to /Application-Modules/Identity"
   },
   "link.item.label.OpenIddict": {
     "message": "同样的发音",
-    "description": "The label of footer link with label=OpenIddict linking to /Application Modules/OpenIddict"
+    "description": "The label of footer link with label=OpenIddict linking to /Application-Modules/OpenIddict"
   },
   "link.item.label.Language Management": {
     "message": "语言管理",
-    "description": "The label of footer link with label=Language Management linking to /Application Modules/Language-Management"
+    "description": "The label of footer link with label=Language Management linking to /Application-Modules/Language-Management"
   },
   "link.item.label.Payment": {
     "message": "支付",
-    "description": "The label of footer link with label=Payment linking to /Application Modules/Payment"
+    "description": "The label of footer link with label=Payment linking to /Application-Modules/Payment"
   },
   "link.item.label.SaaS": {
     "message": "软件即服务",
-    "description": "The label of footer link with label=SaaS linking to /Application Modules/SaaS"
+    "description": "The label of footer link with label=SaaS linking to /Application-Modules/SaaS"
   },
   "link.item.label.Text Template Management": {
     "message": "文本模板管理" ,
-    "description": "The label of footer link with label=Text Template Management linking to /Application Modules/Text-Template-Management"
+    "description": "The label of footer link with label=Text Template Management linking to /Application-Modules/Text-Template-Management"
   },
   "link.item.label.GitHub": {
     "message": "GitHub",

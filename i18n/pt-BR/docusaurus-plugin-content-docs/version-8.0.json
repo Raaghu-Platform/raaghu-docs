@@ -3,9 +3,9 @@
     "message": "8.0",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Getting Started": {
+  "sidebar.tutorialSidebar.category.Getting-Started": {
     "message": "Começando",
-    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+    "description": "The label for category Getting-Started in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorials": {
     "message": "Tutoriais",
@@ -27,9 +27,9 @@
     "message": "Modelos de inicialização",
     "description": "The label for category Startup Templates in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Application Modules": {
+  "sidebar.tutorialSidebar.category.Application-Modules": {
     "message": "Módulo de Aplicação",
-    "description": "The label for category Application Modules in sidebar tutorialSidebar"
+    "description": "The label for category Application-Modules in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.UI Theme": {
     "message": "Tema da IU",
@@ -39,13 +39,13 @@
     "message": "Livro de histórias",
     "description": "The label for category Storybook in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.React UI": {
+  "sidebar.tutorialSidebar.category.React-UI": {
     "message": "IU de reação",
-    "description": "The label for category React UI in sidebar tutorialSidebar"
+    "description": "The label for category React-UI in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Release Information": {
+  "sidebar.tutorialSidebar.category.Release-Information": {
     "message": "Liberar informações",
-    "description": "The label for category Release Information in sidebar tutorialSidebar"
+    "description": "The label for category Release-Information in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Deployment": {
     "message": "implantação",
