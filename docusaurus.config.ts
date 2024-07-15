@@ -196,7 +196,7 @@ const config: Config = {
               to: '/React-UI/Cutomization',
             },
             {
-              label: 'Release Infromation',
+              label: 'Release-Infromation',
               to: '/Release-Information/Realse-Notes',
             },
             {
