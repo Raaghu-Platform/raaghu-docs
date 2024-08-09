@@ -36,7 +36,7 @@ Aqui está a lista de todos os comandos disponíveis antes de explicar seus deta
 * **`generate`**: Gera proxies do lado do cliente para usar endpoints da API HTTP.
 * **`create`**: create é utilizado para gerar diferentes tipos de páginas para gerenciar relacionamentos de dados.
 * **`sync`**: Ajuda-nos a conectar o frontend à solução de código-fonte dos microsserviços do backend ABP.
-* **`login`**: Autentica no seu computador com seu nome de usuário e senha do raaghu.io.
+* **`login`**: Autentica no seu computador com seu nome de usuário e senha do raaghu.ai.
 * **`login --info`**: Mostra as informações de login do usuário atual.
 * **`logout`**: Faz logout do seu computador se você tiver autenticado anteriormente.
 
@@ -207,7 +207,7 @@ raaghu sync --abp --microservices
 raaghu sync --abp -m
 ```
 ## login
-Algumas funcionalidades da CLI requerem que você esteja conectado à plataforma raaghu.io. Para fazer login com seu e-mail, escreva:
+Algumas funcionalidades da CLI requerem que você esteja conectado à plataforma raaghu.ai. Para fazer login com seu e-mail, escreva:
 
 ````json
 raaghu login              #Permite que você insira seu e-mail e senha (ocultos)

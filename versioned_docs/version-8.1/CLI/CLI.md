@@ -36,7 +36,7 @@ Here, is the list of all available commands before explaining their details:
 * **`create`**: Create is used to generate different types of pages for managing data relationships.
 * **`add`**: Add helps us for creation of new pages, components, and elements without entity data.
 * **`sync`**: Helps us to connect frontend to ABP backend microservices source code solution.
-* **`login`**: Authenticates on your computer with your [raaghu.io](https://raaghu.io/) email and password.
+* **`login`**: Authenticates on your computer with your [raaghu.ai](https://raaghu.ai/) email and password.
 * **`login --info`**: Shows the current user's login information.
 * **`logout`**: Logouts from your computer if you've authenticated before.
 
@@ -225,7 +225,7 @@ raaghu sync --abp -m
 
 ### login
 
-Some features of the CLI requires to be logged in to raaghu.io platform. To login with your email write:
+Some features of the CLI requires to be logged in to raaghu.ai platform. To login with your email write:
 
 ```json
 raaghu login              #Allows you to enter your email and password(hidden)

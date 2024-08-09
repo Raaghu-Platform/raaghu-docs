@@ -35,7 +35,7 @@ dotnet tool update --global Waiin.Raaghu.Cli
 * **`generate`**: 生成客户端代理，以使用 HTTP 应用程序接口 终端点。
 * **`create`**: 创建 用于生成不同类型的页面，用于管理数据关系。
 * **`sync`**: 帮助我们解决微服务问题。
-* **`login`**: 使用您的 [raaghu.io](https://raaghu.io/) 用户名和密码在您的计算机上进行身份验证。
+* **`login`**: 使用您的 [raaghu.ai](https://raaghu.ai/) 用户名和密码在您的计算机上进行身份验证。
 * **`login --info`**: 显示当前用户的登录信息。
 * **`logout`**: 如果您之前进行过身份验证，则从计算机注销。
 
@@ -214,7 +214,7 @@ raaghu sync --abp -m
 
 
 ## 登录
-CLI 的某些功能需要登录到 raaghu.io 平台。要使用用户名登录，请执行以下操作：
+CLI 的某些功能需要登录到 raaghu.ai 平台。要使用用户名登录，请执行以下操作：
 
 ````json
 raaghu login <username>                                  # 允许您输入隐藏的密码
